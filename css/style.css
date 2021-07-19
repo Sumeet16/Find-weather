@@ -79,7 +79,10 @@ svg{
 }
 
 .disc{
+    width: 80vw;
+    text-align: center;
     font-weight: 700;
+    text-transform: capitalize;
 }
 
 .view-more-box{
@@ -114,7 +117,7 @@ svg{
 .info-card{
     width: 300px;
     height: 150px;
-    background: #f1f1f186;
+    background: #f1f1f175;
     position: absolute;
     left: 50.4%;
     transform: translateX(-50%);
